@@ -58,7 +58,7 @@ I am a B.Tech Information Technology student at Paavai Engineering College, driv
 
 <p align="center">
   <b>Tools & Platforms</b><br/><br/>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,jira,vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /></a>
 </p>
 
 ---
@@ -96,6 +96,10 @@ These stats provide an accurate, real-time look at my GitHub activity.
 <div align="center">
   <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjithms&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%">
+</p>
 
 ---
 
