@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="50%" height="300px" alt="Header Banner"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="300px" height="300px" alt="Header Banner"/>
 
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -31,10 +31,10 @@
 
 I am a B.Tech Information Technology student at Paavai Engineering College, driven by a passion for creating software that solves real-world problems. My journey into technology is fueled by a desire to build efficient, scalable, and impactful digital experiences. I am adept at problem-solving, as demonstrated by solving over 50 LeetCode problems, and I have a solid foundation in Data Structures and Algorithms. I thrive in collaborative environments and have practical experience with Agile/Scrum workflows using tools like Jira.
 
-* [cite_start]🎓 **Education:** Pursuing a B.Tech in Information Technology from PAAVAI ENGINEERING COLLEGE, Namakkal, Tamil Nadu. [cite: 6, 7, 8, 9]
-* 💡 **Interests:** My core interests lie in native Android development and full-stack web development. [cite_start]I enjoy the entire development lifecycle, from conceptualization and UI/UX design to deployment and maintenance. [cite: 18, 19]
+* 🎓 **Education:** Pursuing a B.Tech in Information Technology from PAAVAI ENGINEERING COLLEGE, Namakkal, Tamil Nadu. 
+* 💡 **Interests:** My core interests lie in native Android development and full-stack web development. I enjoy the entire development lifecycle, from conceptualization and UI/UX design to deployment and maintenance. 
 * 🌱 **Learning:** I am constantly exploring new technologies and frameworks to enhance my skill set and stay updated with industry best practices.
-* 🤝 **Collaboration:** I enjoy leading and collaborating. [cite_start]I led an 'Introduction to Android Development' workshop for over 30 students at Google Developer Student Clubs (GDSC). [cite: 26, 27]
+* 🤝 **Collaboration:** I enjoy leading and collaborating. I led an 'Introduction to Android Development' workshop for over 30 students at Google Developer Student Clubs (GDSC). 
 
 ---
 
@@ -65,17 +65,17 @@ I am a B.Tech Information Technology student at Paavai Engineering College, driv
 
 ### 🚀 Professional Experience
 
-#### **Full-Stack Web Development Intern (Planned)** | [cite_start]Gateway Software Solutions [cite: 6]
-[cite_start]*_(Jan 2026 - Feb 2026)_* [cite: 33]
-* [cite_start]**Frontend:** Engineered a responsive client portal using **React.js** and Material-UI, projected to improve user engagement by 15%. [cite: 34]
-* [cite_start]**Backend:** Developed and deployed scalable RESTful APIs using **Node.js** and **Express.js** to handle over 1,000 requests per minute. [cite: 35]
-* [cite_start]**Workflow:** Actively participated in an **Agile/Scrum** development cycle using **Jira** for task management and conducted peer code reviews. [cite: 36]
+#### **Full-Stack Web Development Intern (Planned)** |Gateway Software Solutions 
+*_(Jan 2026 - Feb 2026)_* 
+* **Frontend:** Engineered a responsive client portal using **React.js** and Material-UI, projected to improve user engagement by 15%.
+* **Backend:** Developed and deployed scalable RESTful APIs using **Node.js** and **Express.js** to handle over 1,000 requests per minute. 
+* **Workflow:** Actively participated in an **Agile/Scrum** development cycle using **Jira** for task management and conducted peer code reviews. 
 
-#### **Android Development Intern** | [cite_start]EDUSKILLS, AICTE [cite: 37]
-[cite_start]*_(Jan 2024 - Mar 2024)_* [cite: 37]
-* [cite_start]**Architecture:** Implemented core features for an e-commerce app using **Kotlin Coroutines** and the **MVVM** architecture. [cite: 38]
-* [cite_start]**UI/UX:** Constructed dynamic and reusable UI components with **Jetpack Compose** and **XML**, ensuring Material Design compliance. [cite: 39]
-* [cite_start]**Backend Integration:** Integrated **Firebase Auth, Firestore, and Cloud Storage** to manage user data, real-time listings, and media uploads. [cite: 40]
+#### **Android Development Intern** | EDUSKILLS, AICTE 
+*_(Jan 2024 - Mar 2024)_* 
+* **Architecture:** Implemented core features for an e-commerce app using **Kotlin Coroutines** and the **MVVM** architecture. 
+* **UI/UX:** Constructed dynamic and reusable UI components with **Jetpack Compose** and **XML**, ensuring Material Design compliance.
+* **Backend Integration:** Integrated **Firebase Auth, Firestore, and Cloud Storage** to manage user data, real-time listings, and media uploads.
 
 ---
 
