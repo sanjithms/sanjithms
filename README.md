@@ -9,8 +9,7 @@
   </h1>
   
   <p>
-    <b>B.Tech IT Student | Android & Full-Stack Developer</b>
-    <br/>
+    <b>B.Tech IT Student | Android & Full-Stack Developer</b><br/>
     Crafting efficient, scalable, and user-centric digital experiences.
   </p>
   
@@ -29,12 +28,12 @@
 
 ### ✨ About Me
 
-I am a B.Tech Information Technology student at Paavai Engineering College, driven by a passion for creating software that solves real-world problems. My journey into technology is fueled by a desire to build efficient, scalable, and impactful digital experiences. I am adept at problem-solving, as demonstrated by solving over 50 LeetCode problems, and I have a solid foundation in Data Structures and Algorithms. I thrive in collaborative environments and have practical experience with Agile/Scrum workflows using tools like Jira.
+I am a B.Tech Information Technology student at **Paavai Engineering College**, driven by a passion for creating software that solves real-world problems. My journey into technology is fueled by a desire to build efficient, scalable, and impactful digital experiences.  
 
-* 🎓 **Education:** Pursuing a B.Tech in Information Technology from PAAVAI ENGINEERING COLLEGE, Namakkal, Tamil Nadu. 
-* 💡 **Interests:** My core interests lie in native Android development and full-stack web development. I enjoy the entire development lifecycle, from conceptualization and UI/UX design to deployment and maintenance. 
-* 🌱 **Learning:** I am constantly exploring new technologies and frameworks to enhance my skill set and stay updated with industry best practices.
-* 🤝 **Collaboration:** I enjoy leading and collaborating. I led an 'Introduction to Android Development' workshop for over 30 students at Google Developer Student Clubs (GDSC). 
+* 🎓 **Education:** Pursuing a B.Tech in Information Technology (CGPA: 8.64 / 10).  
+* 💡 **Interests:** Android & Full-Stack Web Development.  
+* 🌱 **Learning:** Exploring Web3 & AI-powered systems.  
+* 🤝 **Collaboration:** Conducted Android workshops for 30+ students under GDSC.  
 
 ---
 
@@ -65,31 +64,44 @@ I am a B.Tech Information Technology student at Paavai Engineering College, driv
 
 ### 🚀 Professional Experience
 
-#### **Full-Stack Web Development Intern (Planned)** | Gateway Software Solutions 
-*_(Jan 2026 - Feb 2026)_* 
-* **Frontend:** Engineered a responsive client portal using **React.js** and Material-UI, projected to improve user engagement by 15%.
-* **Backend:** Developed and deployed scalable RESTful APIs using **Node.js** and **Express.js** to handle over 1,000 requests per minute. 
-* **Workflow:** Actively participated in an **Agile/Scrum** development cycle using **Jira** for task management and conducted peer code reviews. 
+#### 💼 **Full-Stack Web Development Intern (Planned)** — *Gateway Software Solutions*  
+*(Jan 2026 - Feb 2026)*  
+- Built responsive client portal with **React.js** and **Material-UI** (15% engagement increase).  
+- Developed RESTful APIs using **Node.js**, **Express.js**, and **PostgreSQL**.  
+- Participated in Agile development cycles using **Jira** and peer code reviews.  
 
-#### **Android Development Intern** | EDUSKILLS, AICTE 
-*_(Jan 2024 - Mar 2024)_* 
-* **Architecture:** Implemented core features for an e-commerce app using **Kotlin Coroutines** and the **MVVM** architecture. 
-* **UI/UX:** Constructed dynamic and reusable UI components with **Jetpack Compose** and **XML**, ensuring Material Design compliance.
-* **Backend Integration:** Integrated **Firebase Auth, Firestore, and Cloud Storage** to manage user data, real-time listings, and media uploads.
+#### 📱 **Android Development Intern** — *EDUSKILLS, AICTE*  
+*(Jan 2024 - Mar 2024)*  
+- Developed e-commerce features using **Kotlin Coroutines** & **MVVM** architecture.  
+- Designed UI with **Jetpack Compose** & **XML** following Material Design.  
+- Integrated **Firebase Auth**, **Firestore**, and **Cloud Storage** for secure data handling.  
 
 ---
 
 ### 📊 My GitHub Analytics & Activity Graph
 
-These stats provide an accurate, real-time look at my GitHub activity.
-
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sanjithms's GitHub stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=sanjithms&theme=tokyonight&hide_border=true" alt="sanjithms's GitHub streak stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="sanjithms's top languages" />
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="180px" 
+    alt="sanjithms's GitHub stats"
+  />
+
+  <!-- Streak Stats (Fixed) -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=sanjithms&theme=tokyonight&hide_border=true" 
+    height="180px" 
+    alt="sanjithms's GitHub streak stats"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180px" 
+    alt="sanjithms's top languages"
+  />
 
 </div>
 
@@ -113,9 +125,11 @@ These stats provide an accurate, real-time look at my GitHub activity.
 
 ### 📫 Let's Connect!
 
-I'm always open to discussing new projects, creative ideas, or opportunities. Feel free to reach out!
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjith-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sanjithms0610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
+
+---
+
+<h3 align="center">⭐ Crafted with ❤️ by <a href="https://github.com/sanjithms">Sanjith M S</a></h3>
