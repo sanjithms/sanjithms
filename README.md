@@ -62,7 +62,7 @@ I am a B.Tech Information Technology student at **Paavai Engineering College**, 
 
 <p align="center">
   <b>Tools & Platforms (Jira icon fixed)</b><br/><br/>
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,jira,vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /></a>
 </p>
 
 <!-- Divider -->
