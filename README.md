@@ -65,7 +65,7 @@ I am a B.Tech Information Technology student at Paavai Engineering College, driv
 
 ### 🚀 Professional Experience
 
-#### **Full-Stack Web Development Intern (Planned)** |Gateway Software Solutions 
+#### **Full-Stack Web Development Intern (Planned)** | Gateway Software Solutions 
 *_(Jan 2026 - Feb 2026)_* 
 * **Frontend:** Engineered a responsive client portal using **React.js** and Material-UI, projected to improve user engagement by 15%.
 * **Backend:** Developed and deployed scalable RESTful APIs using **Node.js** and **Express.js** to handle over 1,000 requests per minute. 
@@ -84,18 +84,26 @@ I am a B.Tech Information Technology student at Paavai Engineering College, driv
 These stats provide an accurate, real-time look at my GitHub activity.
 
 <div align="center">
-  
+
   <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sanjithms's GitHub stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=sanjithms&theme=tokyonight&hide_border=true" alt="sanjithms's GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=sanjithms&theme=tokyonight&hide_border=true" alt="sanjithms's GitHub streak stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="sanjithms's top languages" />
 
 </div>
 
+---
+
+### 🐍 GitHub Contribution Snake Animation
+
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/sanjithms/sanjithms/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
+
+---
+
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjithms&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%">
