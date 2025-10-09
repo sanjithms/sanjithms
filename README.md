@@ -1,132 +1,130 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Sanjith+M+S+👋;Aspiring+Software+Developer;Android+%26+Web+Developer;Open+Source+Contributor;Tech+Enthusiast+💻" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+  <img src="https://media.giphy.com/media/z41yqtibT2dtm/giphy.gif" width="100%" alt="Header Banner"/>
+
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Sanjith MS
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <p>
+    <b>B.Tech IT Student | Android & Full-Stack Developer</b>
+    <br/>
+    Crafting efficient, scalable, and user-centric digital experiences.
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sanjithms&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="Profile Visitors"/>
+  </p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/sanjith-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/sanjithms" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="mailto:sanjithms0610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  </p>
+</div>
 
 ---
 
-<!-- About Me Section -->
-<h2 align="center">🌟 About Me</h2>
+### ✨ About Me
+
+[cite_start]I am a B.Tech Information Technology student at Paavai Engineering College[cite: 6, 9], driven by a passion for creating software that solves real-world problems. My journey into technology is fueled by a desire to build efficient, scalable, and impactful digital experiences. [cite_start]I am adept at problem-solving, as demonstrated by solving over 50 LeetCode problems[cite: 30], and I have a solid foundation in Data Structures and Algorithms. [cite_start]I thrive in collaborative environments and have practical experience with Agile/Scrum workflows using tools like Jira[cite: 23, 36].
+
+* [cite_start]🎓 **Education:** Pursuing a B.Tech in Information Technology from PAAVAI ENGINEERING COLLEGE, Namakkal, Tamil Nadu[cite: 6, 7, 8, 9].
+* 💡 **Interests:** My core interests lie in native Android development and full-stack web development. I enjoy the entire development lifecycle, from conceptualization and UI/UX design to deployment and maintenance.
+* 🌱 **Learning:** I am constantly exploring new technologies and frameworks to enhance my skill set and stay updated with industry best practices.
+* 🤝 **Collaboration:** I enjoy leading and collaborating. [cite_start]I led an 'Introduction to Android Development' workshop for over 30 students at Google Developer Student Clubs (GDSC)[cite: 26, 27].
+
+---
+
+### 💻 My Tech Stack
+
+Here is a showcase of my skills using animated icons:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" align="right">
+  <b>Languages</b><br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=kotlin,java,javascript,python,cpp,mysql" /></a>
 </p>
 
-🔹 **Information Technology student** at *Paavai Engineering College* (CGPA: 8.64 / 10).  
-🔹 Passionate about creating **Android** & **Web apps** that make a real-world impact.  
-🔹 Experienced with **Firebase**, **Jetpack Compose**, **React.js**, and **Node.js**.  
-🔹 Curious learner exploring **Web3**, **AI integrations**, and **Cloud solutions**.  
-🔹 Believer in teamwork, innovation, and user-centered design.  
-
-💡 *"Code is not just logic — it's art, discipline, and creativity combined."*  
-
----
-
-### 🧠 Technical Arsenal
-
-| **Category** | **Tools & Technologies** |
-|:-------------|:--------------------------|
-| 💬 **Languages** | Kotlin • Java • Python • JavaScript (ES6+) • C++ • SQL |
-| 📱 **Android Dev** | Android SDK • Jetpack Compose • MVVM • Room • Retrofit • Dagger-Hilt • Firebase • Material Design |
-| 🌐 **Web Dev** | React • Node.js • Express.js • HTML5 • CSS3 |
-| 🗄️ **Databases** | Firebase Firestore • PostgreSQL • SQLite |
-| ⚙️ **Tools & Workflow** | Git • GitHub • Docker • CI/CD • Jira • Agile/Scrum • Android Studio • VS Code |
-
----
-
-### 🚀 Projects Showcase
-
-#### 🏠 Hostel Management System *(Android Application)*
-- A 4-panel smart hostel automation app (Admin, Warden, User, Student).  
-- Real-time sync for attendance, fees, and leave management via **Firebase Realtime DB**.  
-- Boosted efficiency by **30%** for hostel operations.  
-- 🛠 **Tech Stack:** Java • Firebase • Android SDK • XML  
-
-#### 💬 Real-Time Chat App *(Mobile Application)*
-- Lightning-fast messaging with sub-500ms delivery using **Firebase Firestore**.  
-- Integrated **Firebase Cloud Messaging (FCM)** for reliable push notifications.  
-- Dynamic UI built with **Jetpack Compose** + media sharing support.  
-- 🛠 **Tech Stack:** Kotlin • Firebase • Jetpack Compose  
-
----
-
-### 💼 Experience Timeline
-
-🧩 **Gateway Software Solutions** *(Planned: Jan 2026 – Feb 2026)*  
-*Full Stack Web Development Intern*  
-> Developed a responsive client portal using React.js and RESTful APIs with Node.js + PostgreSQL.
-
-📱 **Eduskills, AICTE** *(Jan 2024 – Mar 2024)*  
-*Android Development Intern*  
-> Built core features for an e-commerce app using Kotlin Coroutines, MVVM, and Firebase for backend services.
-
----
-
-### 🏆 Achievements & Leadership
-
-- 👨‍🏫 Conducted an **Android Workshop** for 30+ students under *GDSC*.  
-- 🧠 Solved **50+ LeetCode problems** in Data Structures & Algorithms.  
-- 💻 Completed **Web Dev Bootcamp (2023)** focusing on modern frameworks.  
-- 🥇 Consistently on the **Dean’s List** for academic excellence.  
-
----
-
-### 📜 Certifications
-
-| Platform | Certification |
-|:----------|:--------------|
-| 🧑‍💻 Udemy | *The Complete Android 14 & Kotlin Development Masterclass* |
-| 📱 Nativeva | *Android App Development Course* |
-| ⚡ Revamp | *Full Stack App Development using Kotlin* |
-
----
-
-### 💬 Languages
-- 🇮🇳 **Tamil:** Native  
-- 🇬🇧 **English:** Professional Proficiency  
-
----
-
-### 🌐 Connect With Me
+<p align="center">
+  <b>Android Development</b><br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=androidstudio,firebase,gradle" /></a><br/>
+  <i>Jetpack Compose, Coroutines, MVVM, Room, Retrofit, Dagger-Hilt, XML</i>
+</p>
 
 <p align="center">
-  <a href="mailto:sanjithms0610@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sanjith-ms"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/sanjithms"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <b>Web Development & Databases</b><br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,postgres,sqlite" /></a>
+</p>
+
+<p align="center">
+  <b>Tools & Platforms</b><br/><br/>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,docker,jira,vscode" /></a>
 </p>
 
 ---
 
-### ⚙️ GitHub Analytics
+### 🚀 Professional Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjithms&theme=tokyonight" height="160px" />
-</p>
+#### **Full-Stack Web Development Intern (Planned)** | Gateway Software Solutions
+[cite_start]*_(Jan 2026 - Feb 2026)_* [cite: 33]
+* [cite_start]**Frontend:** Engineered a responsive client portal using **React.js** and Material-UI, projected to improve user engagement by 15%[cite: 34].
+* [cite_start]**Backend:** Developed and deployed scalable RESTful APIs using **Node.js** and **Express.js** to handle over 1,000 requests per minute[cite: 35].
+* [cite_start]**Workflow:** Actively participated in an **Agile/Scrum** development cycle using **Jira** for task management and conducted peer code reviews[cite: 36].
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjithms&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="95%">
-</p>
-
----
-
-### 🧩 Fun Zone
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjithms&theme=onestar&row=1&margin-w=10&no-frame=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjithms&color=blueviolet&style=for-the-badge" alt="Profile views">
-</p>
+#### **Android Development Intern** | EDUSKILLS, AICTE
+[cite_start]*_(Jan 2024 - Mar 2024)_* [cite: 37]
+* [cite_start]**Architecture:** Implemented core features for an e-commerce app using **Kotlin Coroutines** and the **MVVM** architecture[cite: 38].
+* [cite_start]**UI/UX:** Constructed dynamic and reusable UI components with **Jetpack Compose** and **XML**, ensuring Material Design compliance[cite: 39].
+* [cite_start]**Backend Integration:** Integrated **Firebase Auth, Firestore, and Cloud Storage** to manage user data, real-time listings, and media uploads[cite: 40].
 
 ---
 
-### ✨ “Stay Curious, Keep Building!”
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsY0c1tW2PfMZtu/giphy.gif" width="200">
-</p>
+### 📂 Featured Projects
+
+#### **Hostel Management System** | Android Application
+[cite_start]*_(Jan 2024 - Present)_* [cite: 42]
+[cite_start]Spearheaded the complete end-to-end development of a comprehensive 4-panel Android application to digitize and automate hostel operations, estimated to reduce administrative workload by 30%[cite: 43].
+* [cite_start]**Key Features:** Real-time attendance, fee payment, and leave pass management, utilizing Firebase Realtime Database for instant data sync[cite: 44].
+* [cite_start]**Tech Stack:** `Java`, `Firebase (Realtime Database, Auth)`, `XML`, `Android SDK`[cite: 45].
+
+#### **Real-Time Chat Application** | Mobile Application
+[cite_start]*_(Sep 2023 - Dec 2023)_* [cite: 46]
+Built a high-performance, real-time chat application from the ground up, focusing on speed, reliability, and user engagement.
+* [cite_start]**Key Features:** Achieved sub-500ms message delivery using **Firebase Firestore** and implemented **FCM** for reliable push notifications[cite: 47, 48].
+* [cite_start]**Tech Stack:** `Kotlin`, `Firebase (Firestore, FCM, Auth)`, `Jetpack Compose`, `Android SDK`[cite: 49].
 
 ---
 
-<h3 align="center">⭐ Crafted with ❤️ by <a href="https://github.com/sanjithms">Sanjith M S</a></h3>
+### 📊 My GitHub Analytics & Activity Graph
+
+These stats provide an accurate, real-time look at my GitHub activity.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sanjithms's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjithms&theme=tokyonight&hide_border=true" alt="sanjithms's GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="sanjithms's top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/sanjithms/sanjithms/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new projects, creative ideas, or opportunities. Feel free to reach out!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjith-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sanjithms0610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+<div align="center">
+  <br/>
+  <small>
+    Last updated on: October 9, 2025
+  </small>
+</div>
