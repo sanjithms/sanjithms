@@ -27,12 +27,12 @@
 
 ### 👨‍💻 About Me
 
-I am a Software Developer and B.Tech Information Technology student at **Paavai Engineering College**. [cite_start]I specialize in engineering high-performance mobile applications and scalable web solutions, with a proven track record of deploying 4+ technical projects. [cite: 1331, 1346, 1347]
+I am a Software Developer and B.Tech Information Technology student at **Paavai Engineering College**. I specialize in engineering high-performance mobile applications and scalable web solutions, with a proven track record of deploying 4+ technical projects.
 
-* [cite_start]🎓 **Academic Excellence:** Pursuing B.Tech in IT with a **CGPA of 8.64/10.0**. [cite: 1332, 1383]
-* [cite_start]⚙️ **Performance Driven:** Expert in reducing UI thread blocking by 40% and sustaining traffic exceeding 60k requests/hour. [cite: 1315, 1353]
-* [cite_start]🧠 **Algorithmic Focus:** Solved **50+ LeetCode problems**, focusing on execution time complexity and algorithmic optimization. [cite: 1341, 1394]
-* [cite_start]🤝 **Leadership:** Led an Android workshop for **30+ students** as a GDSC Lead. [cite: 1340, 1393]
+* 🎓 **Academic Excellence:** Pursuing B.Tech in IT with a **CGPA of 8.64/10.0**.
+* ⚙️ **Performance Driven:** Expert in reducing UI thread blocking by 40% and sustaining traffic exceeding 60k requests/hour.
+* 🧠 **Algorithmic Focus:** Solved **50+ LeetCode problems**, focusing on execution time complexity and algorithmic optimization.
+* 🤝 **Leadership:** Led an Android workshop for **30+ students** as a GDSC Lead.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -42,11 +42,11 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 
 | Domain | Proficiency |
 | :--- | :--- |
-| **Mobile Development** | [cite_start]`Android SDK`, `Kotlin`, `Java`, `Jetpack Compose`, `Coroutines`, `Material Design` [cite: 1301, 1302] |
-| **Backend & Web** | [cite_start]`React.js`, `Node.js`, `Express.js`, `RESTful APIs`, `MERN Stack` [cite: 1310, 1346, 1378] |
-| **Architecture** | [cite_start]`MVVM`, `Solid Principles`, `Room DB`, `Retrofit`, `Dagger-Hilt` [cite: 1298, 1302] |
-| **Cloud & Tools** | [cite_start]`Firebase`, `Git/GitHub`, `CI/CD`, `Docker`, `Jira`, `Agile/Scrum` [cite: 1303, 1389] |
-| **Secondary Languages** | [cite_start]`Python`, `JavaScript (ES6+)`, `Solidity`, `SQL`, `C++` [cite: 1304, 1387] |
+| **Mobile Development** | `Android SDK`, `Kotlin`, `Java`, `Jetpack Compose`, `Coroutines`, `Material Design` |
+| **Backend & Web** | `React.js`, `Node.js`, `Express.js`, `RESTful APIs`, `MERN Stack` |
+| **Architecture** | `MVVM`, `Solid Principles`, `Room DB`, `Retrofit`, `Dagger-Hilt` |
+| **Cloud & Tools** | `Firebase`, `Git/GitHub`, `CI/CD`, `Docker`, `Jira`, `Agile/Scrum` |
+| **Secondary Languages** | `Python`, `JavaScript (ES6+)`, `Solidity`, `SQL`, `C++` |
 
 </div>
 
@@ -55,14 +55,14 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 ### 💼 Professional Experience
 
 #### **Full-Stack Web Development Intern** — *Gateway Software Solutions* *(Jan 2025 - Feb 2025)*
-- [cite_start]Redesigned the client portal UI with **React.js**, resulting in a **15% increase** in user engagement. [cite: 1309, 1352]
-- [cite_start]Developed **Node.js** REST APIs that maintained **99.9% system uptime** while handling **60,000+ hourly requests**. [cite: 1310, 1353]
-- [cite_start]Achieved **80% code coverage** by implementing unit testing within Agile sprints. [cite: 1354]
+- Redesigned the client portal UI with **React.js**, resulting in a **15% increase** in user engagement.
+- Developed **Node.js** REST APIs that maintained **99.9% system uptime** while handling **60,000+ hourly requests**.
+- Achieved **80% code coverage** by implementing unit testing within Agile sprints.
 
 #### **Android Development Intern** — *EduSkills, AICTE* *(Jan 2024 - March 2024)*
-- [cite_start]Boosted e-commerce app frame rates from **45fps to 60fps** by offloading heavy data processing. [cite: 1358]
-- [cite_start]Engineered **15+ modular Jetpack Compose components**, reducing UI development time by **40%**. [cite: 1316, 1359]
-- [cite_start]Optimized Firestore queries with pagination to load **500+ product images** in under 2 seconds on low-memory devices. [cite: 1360]
+- Boosted e-commerce app frame rates from **45fps to 60fps** by offloading heavy data processing.
+- Engineered **15+ modular Jetpack Compose components**, reducing UI development time by **40%**.
+- Optimized Firestore queries with pagination to load **500+ product images** in under 2 seconds on low-memory devices.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -72,9 +72,9 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 <summary><b>🏥 Automated Skin Disease Prediction System</b> (Current Focus)</summary>
 <br>
 
-- [cite_start]**Description:** Developed an advanced diagnostic tool using Deep Learning to identify 7+ skin conditions with high precision. [cite: 164, 260, 264]
-- [cite_start]**Tech Stack:** `DenseNet Architecture`, `CNN`, `Flask`, `TensorFlow`, `Keras`. [cite: 164, 279, 437]
-- [cite_start]**Impact:** Created a web interface for real-time diagnostic confidence scoring and image analysis. [cite: 1202, 1210]
+- **Description:** Developed an advanced diagnostic tool using Deep Learning to identify 7+ skin conditions with high precision.
+- **Tech Stack:** `DenseNet Architecture`, `CNN`, `Flask`, `TensorFlow`, `Keras`.
+- **Impact:** Created a web interface for real-time diagnostic confidence scoring and image analysis.
 
 </details>
 
@@ -82,9 +82,9 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 <summary><b>🏢 Hostel Management Automation System</b></summary>
 <br>
 
-- [cite_start]**Impact:** Built a 4-panel application that reduced manual processing time by **30%** for 200+ users. [cite: 1320, 1321]
-- [cite_start]**Innovation:** Achieved **<100ms latency** for data synchronization between warden, student, and parent dashboards. [cite: 1366]
-- [cite_start]**Tech:** `Android SDK`, `Java`, `Firebase Realtime Database`. [cite: 1318, 1363]
+- **Impact:** Built a 4-panel application that reduced manual processing time by **30%** for 200+ users.
+- **Innovation:** Achieved **<100ms latency** for data synchronization between warden, student, and parent dashboards.
+- **Tech:** `Android SDK`, `Java`, `Firebase Realtime Database`.
 
 </details>
 
@@ -92,9 +92,9 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 <summary><b>💬 Low-Latency Chat Application</b></summary>
 <br>
 
-- [cite_start]**Speed:** Optimized messaging architecture to achieve **sub-500ms delivery times**. [cite: 1324, 1370]
-- [cite_start]**Reliability:** Integrated **FCM** to guarantee **99% delivery rates** for critical user alerts. [cite: 1325, 1371]
-- [cite_start]**Tech:** `Kotlin`, `Firebase Firestore`, `Jetpack Compose`. [cite: 1322, 1368]
+- **Speed:** Optimized messaging architecture to achieve **sub-500ms delivery times**.
+- **Reliability:** Integrated **FCM** to guarantee **99% delivery rates** for critical user alerts.
+- **Tech:** `Kotlin`, `Firebase Firestore`, `Jetpack Compose`.
 
 </details>
 
@@ -102,14 +102,13 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 <summary><b>🗳️ Secure Decentralized Voting System</b></summary>
 <br>
 
-- [cite_start]**Security:** Deployed Solidity smart contracts to Ethereum testnet for an **immutable election ledger**. [cite: 1375]
-- [cite_start]**Validation:** Integrated **MetaMask** to enforce unique voter validation and prevent duplicate voting. [cite: 1376]
-- [cite_start]**Tech:** `Web3`, `React.js`, `Solidity`. [cite: 1374]
+- **Security:** Deployed Solidity smart contracts to Ethereum testnet for an **immutable election ledger**.
+- **Validation:** Integrated **MetaMask** to enforce unique voter validation and prevent duplicate voting.
+- **Tech:** `Web3`, `React.js`, `Solidity`.
 
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 
