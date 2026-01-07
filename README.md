@@ -113,9 +113,11 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 ### 📊 Technical Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanjith's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjithms&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sanjith's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="Sanjith's Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjithms&theme=tokyonight&hide_border=true" alt="Sanjith's GitHub Streak" />
 </div>
 
 ---
