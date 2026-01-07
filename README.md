@@ -110,17 +110,8 @@ I am a Software Developer and B.Tech Information Technology student at **Paavai 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 Technical Activity & Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sanjith's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="Sanjith's Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjithms&theme=tokyonight&hide_border=true" alt="Sanjith's GitHub Streak" />
-</div>
 
----
 
 ### 🐍 Contribution Snake
 
