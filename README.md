@@ -27,12 +27,12 @@
 
 ### ✨ About Me
 
-[cite_start][cite: 1297] [cite_start]I am a Software Developer with experience in building scalable MERN web applications and native Android (Kotlin) solutions. [cite: 1298] [cite_start]I have successfully deployed 4+ technical projects, ranging from decentralized systems to high-traffic REST APIs. [cite: 1299] My expertise lies in optimizing UI rendering performance, reducing network latency, and implementing secure authentication protocols.
+[cite_start]I am a Software Developer with experience in building scalable MERN web applications and native Android (Kotlin) solutions[cite: 1297]. [cite_start]I have deployed 4+ technical projects, including decentralized systems and high-traffic REST APIs[cite: 1298]. [cite_start]I specialize in optimizing UI performance, reducing network latency, and implementing secure authentication protocols[cite: 1299].
 
-* [cite_start]🎓 [cite: 1334] **Education:** B.Tech in Information Technology at Paavai Engineering College (CGPA: 8.64/10.0).
-* [cite_start]💡 [cite: 1299, 1345] **Interests:** Algorithmic optimization, secure authentication, and high-performance UI.
-* [cite_start]🌱 [cite: 1344] **Leadership:** Led a 30-student Android workshop as GDSC Lead, focusing on UI/UX and API integration.
-* [cite_start]🏆 [cite: 1345] **Problem Solving:** Completed 50+ LeetCode challenges with a focus on runtime complexity.
+* 🎓 **Education:** B.Tech in Information Technology at Paavai Engineering College | [cite_start]CGPA: 8.64[cite: 1333, 1334].
+* [cite_start]💡 **Problem Solving:** Completed 50+ LeetCode challenges focusing on algorithmic optimization[cite: 1345].
+* [cite_start]🤝 **Leadership:** Led a 30-student Android workshop as a GDSC Lead[cite: 1344].
+* [cite_start]🚀 **Goal:** Building impactful digital experiences with high availability and secure data handling[cite: 1297, 1304].
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -42,10 +42,9 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| [cite_start]**Languages** | [cite: 1338] `Java`, `Kotlin`, `JavaScript (ES6+)`, `Python`, `SQL`, `C++`, `Solidity` |
-| [cite_start]**Web Stack** | [cite: 1339] `React.js`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL` |
-| [cite_start]**Mobile Stack** | [cite: 1339] `Android SDK`, `Jetpack Compose`, `Kotlin`, `MVVM` |
-| [cite_start]**Tools & Cloud** | [cite: 1340] `Firebase`, `Git`, `Docker`, `CI/CD`, `JUnit Testing`, `Web3.js` |
+| **Languages** | [cite_start]`Java`, `Kotlin`, `JavaScript (ES6+)`, `Python`, `SQL`, `C++`, `Solidity` [cite: 1338] |
+| **Web & Mobile** | [cite_start]`React.js`, `Node.js`, `Express.js`, `Android SDK`, `Jetpack Compose`, `MVVM`, `Web3.js` [cite: 1339] |
+| **Database & Tools** | [cite_start]`MongoDB`, `PostgreSQL`, `Firebase`, `Git`, `Docker`, `CI/CD`, `JUnit Testing` [cite: 1340] |
 
 </div>
 
@@ -58,14 +57,14 @@
 <br>
 
 #### [cite_start]**Full-Stack Web Development Intern** — *Gateway Software Solutions* *(Jan 2025 - Feb 2025)* [cite: 1301, 1302]
-[cite_start]- [cite: 1303] Redesigned the client portal UI using **React.js**, reducing user support tickets by 15%.
-[cite_start]- [cite: 1304] Developed **Node.js REST APIs** handling 60,000+ hourly requests with 99.9% uptime.
-[cite_start]- [cite: 1305] Implemented unit testing in Agile sprints, achieving 80% code coverage.
+- [cite_start]Redesigned the client portal UI using **React.js**, reducing user support tickets by 15%[cite: 1303].
+- [cite_start]Developed **Node.js REST APIs** handling 60,000+ hourly requests with 99.9% uptime[cite: 1304].
+- [cite_start]Achieved 80% code coverage through unit testing in Agile sprints[cite: 1305].
 
 #### [cite_start]**Android Development Intern** — *EduSkills, AICTE* *(Jan 2024 - March 2024)* [cite: 1306, 1308]
-[cite_start]- [cite: 1309] Boosted frame rates from 45fps to 60fps in an e-commerce app by offloading heavy processing to background threads.
-[cite_start]- [cite: 1310] Established a reusable design system of 15+ **Jetpack Compose** components, cutting UI dev time by 40%.
-[cite_start]- [cite: 1311] Optimized Firestore queries with pagination to load 500+ images in under 2s.
+- [cite_start]Boosted frame rates from 45fps to 60fps in e-commerce apps via background thread offloading[cite: 1309].
+- [cite_start]Cut UI development time by 40% using a custom **Jetpack Compose** design system[cite: 1310].
+- [cite_start]Optimized **Firestore** image loading to under 2 seconds for 500+ items on low-memory devices[cite: 1311].
 
 </details>
 
@@ -74,16 +73,16 @@
 <br>
 
 #### **Hostel Management Automation System** | [cite_start]*Android, Java, Firebase* [cite: 1313, 1314]
-[cite_start]- [cite: 1316] Replaced manual logbooks for 200+ users with a digital attendance and payment tracking system.
-[cite_start]- [cite: 1317] Synchronized warden and student dashboards with <100ms latency using real-time database listeners.
+- [cite_start]Replaced manual logbooks for 200+ users with a real-time digital attendance and payment system[cite: 1316].
+- [cite_start]Achieved <100ms latency for data synchronization between student and warden dashboards[cite: 1317].
+
+#### **Low-Latency Chat Application** | [cite_start]*Android, Kotlin, Firestore* [cite: 1318, 1319]
+- [cite_start]Optimized messaging architecture for sub-500ms delivery times[cite: 1321].
+- [cite_start]Guaranteed 99% reliable push notification delivery using **Firebase Cloud Messaging (FCM)**[cite: 1322].
 
 #### **Secure Decentralized Voting System** | [cite_start]*Web3, React.js, Solidity* [cite: 1323, 1325]
-[cite_start]- [cite: 1326] Deployed **Solidity smart contracts** on the Ethereum testnet for immutable election results.
-[cite_start]- [cite: 1327] Integrated **MetaMask** for unique voter validation, preventing duplicate votes.
-
-#### **Expense Tracker** | [cite_start]*MERN Stack* [cite: 1328, 1329]
-[cite_start]- [cite: 1330] Built a financial dashboard secured with **JWT authentication**.
-[cite_start]- [cite: 1331] Rendered interactive graphs for 1,000+ data points using **Chart.js** without performance lag.
+- [cite_start]Deployed immutable **Solidity smart contracts** on the Ethereum testnet for election results[cite: 1326].
+- [cite_start]Prevented duplicate votes using **MetaMask** wallet integration for unique voter validation[cite: 1327].
 
 </details>
 
@@ -92,12 +91,11 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-</div>
-
-<div align="center">
- <img src="https://streak-stats.demolab.com/?user=sanjithms&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjithms&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -105,7 +103,7 @@
 ### 🐍 Contribution Activity
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/sanjithms/sanjithms/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/sanjithms/sanjithms/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -113,8 +111,8 @@
 ### 📫 Let's Connect!
 
 <p align="center">
- <a href="https://www.linkedin.com/in/sanjith-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- <a href="mailto:sanjithms0610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/sanjith-ms" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sanjithms0610@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
