@@ -7,10 +7,9 @@
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="320"/>
 
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
-  SANJITH MS
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
+  👋 Hello! I’m <b>Sanjith MS</b>
 </h1>
+
 
 <h3>🚀 Software Developer | Android Engineer | Full-Stack MERN | Web3</h3>
 
@@ -25,48 +24,36 @@
 </div>
 
 ---
-
 ## 📫 LET’S CONNECT
 
 <div align="center">
 
-<p>
-  <a href="mailto:sanjithms0610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sanjithms0610%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="mailto:sanjithms0610@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sanjithms0610%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://linkedin.com/in/sanjith-ms">
-    <img src="https://img.shields.io/badge/LinkedIn-Sanjith%20MS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/sanjith-ms">
+  <img src="https://img.shields.io/badge/LinkedIn-Sanjith%20MS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://github.com/sanjithms">
-    <img src="https://img.shields.io/badge/GitHub-sanjithms-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/sanjithms">
+  <img src="https://img.shields.io/badge/GitHub-sanjithms-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://sanjithms.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-sanjithms.netlify.app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+<a href="https://sanjithms.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-sanjithms.netlify.app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://linktr.ee/Sanjith_M_S">
-    <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
-</p>
+<a href="https://linktr.ee/Sanjith_M_S">
+  <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
 
-<p>
-  <a href="https://drive.google.com/file/d/1hg3CZADSRpTfz5PWb4ffXZjaIP4Ge0VY/view">
-    <img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
+<a href="https://drive.google.com/file/d/1hg3CZADSRpTfz5PWb4ffXZjaIP4Ge0VY/view">
+  <img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
 </div>
+
 
 ---
 
@@ -155,7 +142,9 @@ JWT-secured expense tracker with analytics dashboards.
 
 ---
 
-## 🧠 TECH SKILLS — VISUAL STACK (ORDERED)
+## 🧠 TECH SKILLS — VISUAL STACK
+
+
 
 ### 📱 Mobile Development
 <p align="center">
@@ -165,7 +154,12 @@ JWT-secured expense tracker with analytics dashboards.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
 </p>
 
-Android SDK • Jetpack Compose • MVVM • Coroutines • Room • Retrofit
+- **Android SDK**
+- **Jetpack Compose**
+- **MVVM Architecture**
+- **Coroutines**
+- **Room / Retrofit**
+- **Material Design**
 
 ---
 
@@ -177,7 +171,12 @@ Android SDK • Jetpack Compose • MVVM • Coroutines • Room • Retrofit
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
 </p>
 
-MERN • REST APIs • JWT • PostgreSQL • CI/CD
+- **MERN Stack**
+- **RESTful APIs**
+- **JWT Authentication**
+- **PostgreSQL / MongoDB**
+- **API Security**
+- **CI/CD Pipelines**
 
 ---
 
@@ -187,7 +186,10 @@ MERN • REST APIs • JWT • PostgreSQL • CI/CD
   <img src="https://cdn.simpleicons.org/solidity/363636" width="48"/>
 </p>
 
-Solidity • Ethereum Testnet • MetaMask
+- **Solidity Smart Contracts**
+- **Ethereum Testnet**
+- **MetaMask Integration**
+- **Immutable Data Systems**
 
 ---
 
@@ -198,10 +200,13 @@ Solidity • Ethereum Testnet • MetaMask
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48"/>
 </p>
 
-Git • Docker • Agile • Android Studio • VS Code
+- **Git / GitHub**
+- **Docker**
+- **Agile / Scrum**
+- **Android Studio**
+- **VS Code**
 
 ---
-
 ## 📈 GALACTIC METRICS
 
 <div align="center">
@@ -218,6 +223,16 @@ Git • Docker • Agile • Android Studio • VS Code
   width="100%"
 />
 
+</div>
+</div> 
+<!-- ================== LANGUAGE & COMMIT BREAKDOWN ================== -->
+<div align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjithms&theme=github_dark" width="32%" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjithms&theme=github_dark" width="32%" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjithms&theme=github_dark" width="32%" />
+</div> <!-- ================== PRODUCTIVITY ================== --> 
+<div align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjithms&theme=github_dark&utcOffset=5.5" width="60%" />
 </div>
 
 ---
