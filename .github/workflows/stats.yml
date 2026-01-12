@@ -2,35 +2,42 @@ name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs daily at 12 AM UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Stats
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Main Stats Card
         uses: anuraghazra/github-readme-stats@master
         with:
           username: sanjithms
-          theme: dark
-          hide_border: true
           show_icons: true
+          include_all_commits: true
+          count_private: true
+          hide_border: true
+          theme: dark
           output_path: assets/stats.svg
 
-      - name: Generate Languages
+      - name: Generate Languages Card
         uses: anuraghazra/github-readme-stats@master
         with:
           username: sanjithms
-          theme: dark
           layout: compact
+          langs_count: 8
           hide_border: true
+          theme: dark
           output_path: assets/languages.svg
 
-      - name: Commit files
+      - name: Commit & Push Updates
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add assets/*.svg
-          git commit -m "Update GitHub stats" || echo "No changes"
+          git commit -m "chore: update GitHub stats" || echo "No changes to commit"
           git push
