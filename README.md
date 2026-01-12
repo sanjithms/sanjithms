@@ -20,193 +20,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=sanjithms&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
 
-<br/><br/>
+<img src="https://img.shields.io/github/followers/sanjithms?label=Followers&style=for-the-badge&color=7C3AED"/>
 
-<a href="https://www.linkedin.com/in/sanjith-ms">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/sanjithms">
-  <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:sanjithms0610@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-## 👤 ABOUT ME — MY JOURNEY AS A DEVELOPER
-
-I’m **Sanjith MS**, a **Software Developer** and **B.Tech Information Technology student** at  
-**Paavai Engineering College**.
-
-I enjoy building software that feels **fast, reliable, and thoughtfully engineered**. My work spans **Android development**, **full-stack web applications**, and **backend systems** designed to handle real-world traffic and constraints.
-
-What drives me is turning ideas into **production-ready solutions** — optimizing performance, structuring clean architectures, and ensuring every feature solves a real problem. I’m especially interested in systems where **performance, scalability, and user experience intersect**.
-
----
-
-## 🎯 CORE HIGHLIGHTS
-
-- 📱 **Android Performance Optimization** — Reduced UI thread blocking by **40%** using Coroutines  
-- 🌐 **Scalable Backend Systems** — Built APIs handling **60,000+ requests/hour**  
-- ⚙️ **Clean Architecture** — Strong experience with **MVVM** and modular design  
-- 🧠 **Problem Solving** — Solved **50+ DSA problems** with efficiency focus  
-- 🚀 **End-to-End Delivery** — Built and deployed **mobile & full-stack applications**
-
----
-
-## 💼 PROFESSIONAL EXPERIENCE
-
-### 🚀 Full-Stack Web Development Intern  
-**Gateway Software Solutions** *(Jan 2025 – Feb 2025)*
-
-Worked on a production-grade web platform used by real clients.  
-Redesigned the frontend using **React.js** to improve usability and engagement, and built **Node.js / Express REST APIs** capable of handling high traffic loads.
-
-Focused on API reliability, middleware design, and database performance, contributing to a system sustaining **60,000+ requests/hour** with **99.9% uptime**. Collaborated in Agile teams, participated in code reviews, and implemented unit tests for maintainability.
-
----
-
-### 📱 Android Development Intern  
-**EduSkills (AICTE)** *(Jan 2024 – Mar 2024)*
-
-Worked on a large-scale e-commerce Android application built with **Kotlin** and **Jetpack Compose**.
-
-Improved app performance by moving heavy operations off the UI thread, increasing frame rates from **45fps to 60fps**. Developed **15+ reusable Compose components** and optimized **Firestore queries** using pagination to load **500+ products smoothly** on low-end devices.
-
----
-
-## 🧩 PROJECTS — DETAILED OVERVIEW
-
-<details>
-<summary><b>🏢 Hostel Management Automation System</b></summary>
-
-<br/>
-
-- 4-panel Android application (Student, Parent, Warden, Admin)  
-- Real-time attendance, fee tracking, and leave management  
-- Firebase Realtime Database for instant sync  
-- Reduced administrative workload by **30%** for **200+ users**
-
-**Tech Stack:** Java, Android SDK, Firebase Realtime DB, Firebase Auth
-
-</details>
-
----
-
-<details>
-<summary><b>💬 Low-Latency Real-Time Chat Application</b></summary>
-
-<br/>
-
-- Sub-500ms message delivery  
-- Firestore indexing for fast retrieval  
-- Firebase Cloud Messaging (FCM) integration  
-- Real-time text and media sharing
-
-**Tech Stack:** Kotlin, Firebase Firestore, FCM, Jetpack Compose
-
-</details>
-
----
-
-<details>
-<summary><b>🗳️ Secure Decentralized Voting System</b></summary>
-
-<br/>
-
-- Solidity smart contracts on Ethereum testnet  
-- MetaMask-based voter authentication  
-- Immutable and transparent vote storage
-
-**Tech Stack:** React.js, Solidity, Web3.js, MetaMask
-
-</details>
-
----
-
-<details>
-<summary><b>💰 Expense Tracker (MERN Stack)</b></summary>
-
-<br/>
-
-- JWT-secured authentication  
-- Real-time income & expense tracking  
-- Interactive data visualization
-
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Chart.js
-
-</details>
-
----
-
-## 🧠 TECH SKILLS — VISUAL STACK
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
-</p>
-
-- Android SDK • Jetpack Compose • MVVM • Coroutines • Room • Retrofit
-
----
-
-### 🌐 Full-Stack Development
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
-</p>
-
-- MERN Stack • REST APIs • JWT • PostgreSQL • CI/CD
-
----
-
-### 🔗 Web3 & Blockchain
-<p align="center">
-  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48"/>
-  <img src="https://cdn.simpleicons.org/solidity/363636" width="48"/>
-</p>
-
-- Solidity • Ethereum Testnet • MetaMask • Immutable Systems
-
----
-
-### ⚙️ Tools & Workflow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48"/>
-</p>
-
-- Git • Docker • Agile/Scrum • Android Studio • VS Code
-
----
-
-## 📈 GALACTIC METRICS
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sanjithms&theme=github-dark&hide_border=true"
-  width="100%"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjithms&theme=github_dark"
-  width="100%"
-/>
-
-</div>
-<!-- ================== LANGUAGE & COMMIT BREAKDOWN ================== --> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjithms&theme=github_dark" width="32%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjithms&theme=github_dark" width="32%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjithms&theme=github_dark" width="32%" /> </div> <!-- ================== PRODUCTIVITY ================== --> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjithms&theme=github_dark&utcOffset=5.5" width="60%" />
 </div>
 
 ---
@@ -244,6 +59,164 @@ Improved app performance by moving heavy operations off the UI thread, increasin
     <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </p>
+
+<p>
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view">
+    <img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👤 ABOUT ME — MY JOURNEY AS A DEVELOPER
+
+I’m **Sanjith MS**, a **Software Developer** and **B.Tech Information Technology student** at  
+**Paavai Engineering College**.
+
+I enjoy building software that feels **fast, reliable, and thoughtfully engineered**. My work spans **Android development**, **full-stack web applications**, and **backend systems** built for real-world usage.
+
+I’m driven by turning ideas into **production-ready solutions**, focusing on **performance, scalability, and clean architecture**.
+
+---
+
+## 🎯 CORE HIGHLIGHTS
+
+- 📱 **Android Performance** — Reduced UI thread blocking by **40%**
+- 🌐 **Backend Scalability** — APIs handling **60,000+ requests/hour**
+- ⚙️ **Architecture** — Strong MVVM & modular design experience
+- 🧠 **Problem Solving** — 50+ DSA problems solved
+- 🚀 **Delivery** — Multiple mobile & full-stack apps shipped end-to-end
+
+---
+
+## 💼 PROFESSIONAL EXPERIENCE
+
+### 🚀 Full-Stack Web Development Intern  
+**Gateway Software Solutions** *(Jan 2025 – Feb 2025)*
+
+Worked on a production web platform, redesigning UI with **React.js** and building scalable **Node.js / Express APIs**. Focused on performance, API reliability, and maintainability in an Agile environment.
+
+---
+
+### 📱 Android Development Intern  
+**EduSkills (AICTE)** *(Jan 2024 – Mar 2024)*
+
+Optimized Android app performance using **Kotlin & Jetpack Compose**, improving FPS and Firestore query efficiency for large datasets.
+
+---
+
+## 🧩 PROJECTS — DETAILED OVERVIEW
+
+<details>
+<summary><b>🏢 Hostel Management Automation System</b></summary>
+
+<br/>
+
+Android-based automation system with real-time attendance, fees, and leave tracking for 200+ users.
+
+**Tech:** Java, Android SDK, Firebase
+
+</details>
+
+<details>
+<summary><b>💬 Low-Latency Chat Application</b></summary>
+
+<br/>
+
+Real-time chat app with sub-500ms delivery and FCM notifications.
+
+**Tech:** Kotlin, Firebase, Jetpack Compose
+
+</details>
+
+<details>
+<summary><b>🗳️ Secure Decentralized Voting System</b></summary>
+
+<br/>
+
+Blockchain-based voting system using Solidity smart contracts.
+
+**Tech:** React, Solidity, Web3, MetaMask
+
+</details>
+
+<details>
+<summary><b>💰 Expense Tracker (MERN)</b></summary>
+
+<br/>
+
+JWT-secured expense tracker with analytics dashboards.
+
+**Tech:** MongoDB, Express, React, Node
+
+</details>
+
+---
+
+## 🧠 TECH SKILLS — VISUAL STACK (ORDERED)
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
+</p>
+
+Android SDK • Jetpack Compose • MVVM • Coroutines • Room • Retrofit
+
+---
+
+### 🌐 Full-Stack Development
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
+</p>
+
+MERN • REST APIs • JWT • PostgreSQL • CI/CD
+
+---
+
+### 🔗 Web3 & Blockchain
+<p align="center">
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48"/>
+  <img src="https://cdn.simpleicons.org/solidity/363636" width="48"/>
+</p>
+
+Solidity • Ethereum Testnet • MetaMask
+
+---
+
+### ⚙️ Tools & Workflow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48"/>
+</p>
+
+Git • Docker • Agile • Android Studio • VS Code
+
+---
+
+## 📈 GALACTIC METRICS
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sanjithms&theme=github-dark&hide_border=true"
+  width="100%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjithms&theme=github_dark"
+  width="100%"
+/>
 
 </div>
 
