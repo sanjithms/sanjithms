@@ -239,8 +239,13 @@ Improved app performance by moving heavy operations off the UI thread, increasin
   </a>
 </p>
 
-</div>
+<p>
+  <a href="https://linktr.ee/Sanjith_M_S">
+    <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+  </a>
+</p>
 
+</div>
 
 ---
 
