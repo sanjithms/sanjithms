@@ -1,135 +1,285 @@
-[[<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=SANJITH%20MS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20&%20Mobile%20Engineer&descSize=20&descAlignY=60" width="100%"/>
-
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Mastering+the+MERN+Stack;Expert+Android+Architect;Web3+%26+Smart+Contract+Dev;Building+Scalable+Solutions" alt="Typing SVG" /></a>
-  </p>
-
-  ### 🌌 Transcending Digital Boundaries
-  **Software Developer | B.Tech Information Technology Student**
-</div>
-
----
-
-## 🛰️ Orbital Status Control (About Me)
-<div align="left">
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXIzZ3R4bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-  - [cite_start]🎓 **Academic Excellence:** Pursuing B.Tech at **Paavai Engineering College** (Expected 2026) with a standout **CGPA of 8.64/10.0**. [cite: 140, 141, 146]
-  - [cite_start]🚀 **Performance Obsessed:** Proven ability to handle **60,000+ hourly requests** and reduce UI thread blocking by **40%**. [cite: 119, 225]
-  - [cite_start]🧠 **Algorithmic Surgeon:** Solved **50+ LeetCode challenges** focusing on runtime complexity and execution optimization. [cite: 150]
-  - [cite_start]🛡️ **Tech Philosophy:** Bridging elegant user interfaces with robust, high-security server-side logic. [cite: 106]
-</div>
-
----
-
-## 🛠️ The Tech Multiverse (Skills)
-
-| 🌐 Web & Backend | 📱 Mobile Architecture | ☁️ Cloud & DevOps |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> | <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> | <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
-| <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/> | <img src="https://img.shields.io/badge/MVVM-Architecture-orange?style=for-the-badge"/> | <img src="https://img.shields.io/badge/CI/CD-Integration-blue?style=for-the-badge"/> |
-
----
-
-## 💠 Professional Chronicle (Experience)
-
-### ⚡ Gateway Software Solutions | Full-Stack Intern
-[cite_start]*Jan 2025 – Feb 2025* [cite: 160]
-- [cite_start]💎 **UI Transformation:** Redesigned client portal using **React.js** & **Material-UI**, boosting engagement by **15%**. [cite: 118]
-- [cite_start]⚡ **High-Velocity Backend:** Engineered REST APIs processing **1,000+ requests/minute** with **99.9% uptime**. [cite: 162]
-- [cite_start]🧪 **Code Integrity:** Conducted peer reviews and unit testing, achieving **80% code coverage**. [cite: 163]
-
-### 🤖 EduSkills, AICTE | Android Development Intern
-[cite_start]*Jan 2024 – March 2024* [cite: 166]
-- [cite_start]🚄 **Thread Optimization:** Offloaded data processing to background threads, boosting frame rates from **45fps to 60fps**. [cite: 167]
-- [cite_start]🧱 **System Design:** Created a system of **15+ reusable Jetpack Compose components**, cutting dev time by **40%**. [cite: 168]
-- [cite_start]📦 **Data Management:** Implemented Firestore pagination to load **500+ items** in under 2 seconds. [cite: 169]
-
----
-
-## 🔮 Project Singularity (Engineering Showcases)
-
-<details>
-<summary><b>🏩 Hostel Management Automation (Enterprise Grade)</b></summary>
-<blockquote style="border-left: 5px solid #7B2CBF;">
-[cite_start]Digitized operations for 200+ users, replacing manual logbooks with a 4-panel ecosystem. [cite: 174]
-<ul>
-  [cite_start]<li><b>Latency:</b> Achieved <100ms real-time data sync. [cite: 175]</li>
-  [cite_start]<li><b>Stack:</b> Java, Firebase Realtime Database, Android SDK. [cite: 172]</li>
-  [cite_start]<li><b>Impact:</b> 30% reduction in administrative workload. [cite: 134]</li>
-</ul>
-</blockquote>
-</details>
-
-<details>
-<summary><b>🛡️ Decentralized Voting System (Web3)</b></summary>
-<blockquote style="border-left: 5px solid #7B2CBF;">
-[cite_start]A corruption-proof election system built on the Ethereum testnet. [cite: 184]
-<ul>
-  [cite_start]<li><b>Security:</b> Solidity smart contracts for immutable ledgers. [cite: 184]</li>
-  [cite_start]<li><b>Auth:</b> MetaMask integration for unique voter validation. [cite: 185]</li>
-  [cite_start]<li><b>Stack:</b> Web3, React.js, Solidity. [cite: 183]</li>
-</ul>
-</blockquote>
-</details>
-
-<details>
-<summary><b>💬 Ultra-Low Latency Chat (Messaging)</b></summary>
-<blockquote style="border-left: 5px solid #7B2CBF;">
-[cite_start]Messaging architecture optimized for extreme speed and message delivery reliability. [cite: 176]
-<ul>
-  [cite_start]<li><b>Speed:</b> Sub-500ms delivery times via Firestore indexing. [cite: 179]</li>
-  [cite_start]<li><b>Reliability:</b> 99% push notification delivery rate using FCM. [cite: 180]</li>
-  [cite_start]<li><b>Stack:</b> Kotlin, Jetpack Compose, Firebase. [cite: 177]</li>
-</ul>
-</blockquote>
-</details>
-
-<details>
-<summary><b>📉 Expense Tracker (MERN)</b></summary>
-<blockquote style="border-left: 5px solid #7B2CBF;">
-[cite_start]A full-stack financial dashboard for real-time wealth management. [cite: 188]
-<ul>
-  [cite_start]<li><b>Data Viz:</b> Rendered 1,000+ data points using Chart.js without performance lag. [cite: 189]</li>
-  [cite_start]<li><b>Security:</b> JWT-based session authentication. [cite: 188]</li>
-  [cite_start]<li><b>Stack:</b> MongoDB, Express, React, Node.js. [cite: 187]</li>
-</ul>
-</blockquote>
-</details>
-
----
-
-## 🏆 Certifications & Milestones
-- [cite_start]🥇 **GDSC Lead:** Spearheaded Android workshops for 30+ students. [cite: 202]
-- [cite_start]📜 **Android 14 & Kotlin Masterclass** (Udemy). [cite: 97]
-- [cite_start]📜 **Full Stack Kotlin** (Revamp). [cite: 99]
-- [cite_start]🎓 **Dean's List:** Consistently recognized for academic excellence. [cite: 80]
-
----
-
-## 📈 Galactic Metrics
+<!-- ========================================================= -->
+<!--                    SANJITH MS – GITHUB BIO                -->
+<!-- ========================================================= -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&theme=dracula&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&theme=dracula" height="180px"/>
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="320"/>
+
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
+  SANJITH MS
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38"/>
+</h1>
+
+<h3>🚀 Software Developer | Android Engineer | Full-Stack MERN | Web3</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=I+Build+Scalable+Systems;High-Performance+Android+Apps;Secure+Web3+Solutions;Clean+Architecture+Advocate" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sanjithms&label=Profile+Views&color=7C3AED&style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sanjith-ms">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/sanjithms">
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:sanjithms0610@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
 </div>
 
 ---
 
-## 📬 Open Frequency (Contact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+
+## 👤 ABOUT ME — A HUMAN STORY
+
+I’m **Sanjith MS**, a Software Developer and B.Tech Information Technology student at **Paavai Engineering College**.
+
+I focus on building **real-world, production-grade systems** — from **high-performance Android applications** to **scalable backend architectures** and **secure Web3 platforms**.
+
+I believe in:
+- Clean architecture
+- Performance-first engineering
+- Human-centered design
+- Scalable solutions
+
+---
+
+## 🎯 CORE HIGHLIGHTS
+
+- 🎓 **CGPA:** 8.64 / 10  
+- 📱 **Android Optimization:** Reduced UI blocking by **40%**  
+- 🌐 **Backend Scale:** APIs handling **60,000+ requests/hour**  
+- 🧠 **Problem Solving:** 50+ LeetCode problems  
+- 👨‍🏫 **Leadership:** GDSC Lead (30+ students)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=3"/>
+
+## 🧠 TECH SKILLS — VISUAL STACK
+
+### 📱 Mobile Development
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="48"/>
+</p>
+- Android SDK
+- Jetpack Compose
+- MVVM Architecture
+- Coroutines
+- Room / Retrofit
+- Material Design
+
+---
+
+### 🌐 Full-Stack Development
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48"/>
+</p>
+- MERN Stack
+- RESTful APIs
+- JWT Authentication
+- PostgreSQL / MongoDB
+- API Security
+- CI/CD Pipelines
+
+
+---
+
+### 🔗 Web3 & Blockchain
+<p align="center">
+<img src="https://cdn.simpleicons.org/ethereum/627EEA" width="48"/>
+<img src="https://cdn.simpleicons.org/solidity/363636" width="48"/>
+</p>
+
+- Solidity Smart Contracts
+- Ethereum Testnet
+- MetaMask Integration
+- Immutable Data Systems
+---
+
+### ⚙️ Tools & Workflow
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="48"/>
+</p>
+
+- Git / GitHub
+- Docker
+- Agile / Scrum
+- Android Studio
+- VS Code
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120"/>
+
+
+
+## 📈 GALACTIC METRICS
+
+<!-- ================== MAIN STATS ================== -->
 <div align="center">
-  <a href="mailto:sanjithms0610@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sanjith-ms"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sanjithms"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
+  width="100%"
+/>
+
 </div>
 
+<br/>
+
+<!-- ================== TOP LANGUAGES ================== -->
 <div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/sanjithms/sanjithms/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation"/>
-  <br>
-  <b>Designed with ❤️ and ⚛️ by Sanjith MS</b>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&langs_count=8&hide_border=true&theme=dark"
+  width="70%"
+/>
+
 </div>
-](https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20357620749&gbraid=0AAAAApk5BhkNhrxyg5HLj9VkSCvQjFx9L&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7jUc57fG_dQgivbTa7VZrQybBa0ckxnu9SwgGmnFITGqSTkARzL_7YaAuZ7EALw_wcB)](https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20357620749&gbraid=0AAAAApk5BhkNhrxyg5HLj9VkSCvQjFx9L&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7jUc57fG_dQgivbTa7VZrQybBa0ckxnu9SwgGmnFITGqSTkARzL_7YaAuZ7EALw_wcB)
+
+<br/>
+
+<!-- ================== ACTIVITY GRAPH (STABLE) ================== -->
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sanjithms&theme=github-dark&hide_border=true"
+  width="100%"
+/>
+
+</div>
+
+<br/>
+
+<!-- ================== PROFILE SUMMARY (MOST STABLE) ================== -->
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjithms&theme=github_dark"
+  width="100%"
+/>
+
+</div>
+
+
+</div>
+
+<br/>
+
+<!-- ============ FULL PROFILE INSIGHTS ============ -->
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjithms&theme=tokyonight"
+  width="100%"
+/>
+
+</div>
+
+<br/>
+
+<!-- ============ DETAILED BREAKDOWN ============ -->
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjithms&theme=tokyonight"
+  width="32%"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjithms&theme=tokyonight"
+  width="32%"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjithms&theme=tokyonight"
+  width="32%"
+/>
+
+</div>
+
+<br/>
+
+<!-- ============ PRODUCTIVE TIME ============ -->
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjithms&theme=tokyonight&utcOffset=5.5"
+  width="60%"
+/>
+
+</div>
+
+<br/>
+
+<!-- ============ TROPHY WALL ============ -->
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=sanjithms&theme=onedark&no-frame=true&column=6&margin-w=10&margin-h=10"
+  width="100%"
+/>
+
+</div>
+
+
+---
+
+
+
+## 📫 LET’S CONNECT
+
+<div align="center">
+
+<!-- Email -->
+<p>
+  <a href="mailto:sanjithms0610@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sanjithms0610%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- LinkedIn -->
+<p>
+  <a href="https://linkedin.com/in/sanjith-ms">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjith%20MS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<!-- GitHub -->
+<p>
+  <a href="https://github.com/sanjithms">
+    <img src="https://img.shields.io/badge/GitHub-sanjithms-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Portfolio -->
+<p>
+  <a href="https://sanjithms.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-sanjithms.netlify.app-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+
+---
+
+<h3 align="center">
+✨ Crafted with precision by <b>Sanjith MS</b>
+</h3>
