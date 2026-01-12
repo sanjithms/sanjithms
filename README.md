@@ -130,19 +130,6 @@ I believe in:
 
 ## 📈 GALACTIC METRICS
 
-<!-- ================== CORE STATS (SELF-HOSTED) ================== -->
-<div align="center">
-
-<img src="assets/stats.svg" width="100%" />
-
-<br/><br/>
-
-<img src="assets/languages.svg" width="70%" />
-
-</div>
-
----
-
 <!-- ================== ACTIVITY TIMELINE ================== -->
 <div align="center">
 
@@ -199,17 +186,7 @@ I believe in:
 
 </div>
 
----
 
-<!-- ================== ACHIEVEMENTS ================== -->
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=sanjithms&theme=onedark&no-frame=true&column=6&margin-w=10&margin-h=10"
-  width="100%"
-/>
-
-</div>
 
 
 
