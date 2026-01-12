@@ -130,6 +130,7 @@ I believe in:
 
 ## 📈 GALACTIC METRICS
 
+<!-- ================== CORE STATS (SELF-HOSTED) ================== -->
 <div align="center">
 
 <img src="assets/stats.svg" width="100%" />
@@ -140,10 +141,9 @@ I believe in:
 
 </div>
 
+---
 
-<br/>
-
-<!-- ================== ACTIVITY GRAPH (STABLE) ================== -->
+<!-- ================== ACTIVITY TIMELINE ================== -->
 <div align="center">
 
 <img
@@ -153,9 +153,9 @@ I believe in:
 
 </div>
 
-<br/>
+---
 
-<!-- ================== PROFILE SUMMARY (MOST STABLE) ================== -->
+<!-- ================== PROFILE OVERVIEW ================== -->
 <div align="center">
 
 <img
@@ -165,58 +165,43 @@ I believe in:
 
 </div>
 
+---
 
-</div>
-
-<br/>
-
-<!-- ============ FULL PROFILE INSIGHTS ============ -->
+<!-- ================== LANGUAGE & COMMIT BREAKDOWN ================== -->
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjithms&theme=tokyonight"
-  width="100%"
-/>
-
-</div>
-
-<br/>
-
-<!-- ============ DETAILED BREAKDOWN ============ -->
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjithms&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjithms&theme=github_dark"
   width="32%"
 />
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjithms&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanjithms&theme=github_dark"
   width="32%"
 />
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjithms&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjithms&theme=github_dark"
   width="32%"
 />
 
 </div>
 
-<br/>
+---
 
-<!-- ============ PRODUCTIVE TIME ============ -->
+<!-- ================== PRODUCTIVITY ================== -->
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjithms&theme=tokyonight&utcOffset=5.5"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sanjithms&theme=github_dark&utcOffset=5.5"
   width="60%"
 />
 
 </div>
 
-<br/>
+---
 
-<!-- ============ TROPHY WALL ============ -->
+<!-- ================== ACHIEVEMENTS ================== -->
 <div align="center">
 
 <img
@@ -225,6 +210,7 @@ I believe in:
 />
 
 </div>
+
 
 
 ---
