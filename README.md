@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1hg3CZADSRpTfz5PWb4ffXZjaIP4Ge0VY/view">
+<a href="https://drive.google.com/file/d/1zA93emK1zPOW1FoXFbp6FZbPCzYt83Yl/view?usp=drive_link">
   <img src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
