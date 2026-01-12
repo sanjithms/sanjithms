@@ -1,43 +1,30 @@
-name: Generate GitHub Stats
+name: Generate GitHub Metrics
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Daily
+  workflow_dispatch:
 
 jobs:
-  generate-stats:
+  metrics:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub stats
-        uses: anuraghazra/github-readme-stats@v1
+      - name: Generate Metrics SVG
+        uses: lowlighter/metrics@latest
         with:
-          username: sanjithms
-          show_icons: true
-          include_all_commits: true
-          count_private: true
-          hide_border: true
-          theme: dark
-          output_path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: sanjithms
+          template: classic
+          base: header, activity, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_display: large
+          filename: assets/stats.svg
 
-      - name: Generate language stats
-        uses: anuraghazra/github-readme-stats@v1
-        with:
-          username: sanjithms
-          layout: compact
-          langs_count: 8
-          hide_border: true
-          theme: dark
-          output_path: assets/languages.svg
-
-      - name: Commit and push SVGs
+      - name: Commit Metrics
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add assets/*.svg
-          git commit -m "Update GitHub stats" || echo "No changes"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/stats.svg
+          git commit -m "Update GitHub metrics" || echo "No changes"
           git push
