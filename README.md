@@ -128,30 +128,18 @@ I believe in:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120"/>
 
 
-
 ## 📈 GALACTIC METRICS
 
-<!-- ================== MAIN STATS ================== -->
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sanjithms&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
-  width="100%"
-/>
+<img src="assets/stats.svg" width="100%" />
+
+<br/><br/>
+
+<img src="assets/languages.svg" width="70%" />
 
 </div>
 
-<br/>
-
-<!-- ================== TOP LANGUAGES ================== -->
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithms&layout=compact&langs_count=8&hide_border=true&theme=dark"
-  width="70%"
-/>
-
-</div>
 
 <br/>
 
