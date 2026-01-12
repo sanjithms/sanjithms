@@ -1,4 +1,4 @@
-<div align="center">
+[[<div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=SANJITH%20MS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20&%20Mobile%20Engineer&descSize=20&descAlignY=60" width="100%"/>
 
   <p align="center">
@@ -132,3 +132,4 @@
   <br>
   <b>Designed with ❤️ and ⚛️ by Sanjith MS</b>
 </div>
+](https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20357620749&gbraid=0AAAAApk5BhkNhrxyg5HLj9VkSCvQjFx9L&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7jUc57fG_dQgivbTa7VZrQybBa0ckxnu9SwgGmnFITGqSTkARzL_7YaAuZ7EALw_wcB)](https://gemini.google.com/app?is_sa=1&is_sa=1&android-min-version=301356232&ios-min-version=322.0&campaign_id=bkws&utm_source=sem&utm_medium=paid-media&utm_campaign=bkws&pt=9008&mt=8&ct=p-growth-sem-bkws&gclsrc=aw.ds&gad_source=1&gad_campaignid=20357620749&gbraid=0AAAAApk5BhkNhrxyg5HLj9VkSCvQjFx9L&gclid=Cj0KCQiA1JLLBhCDARIsAAVfy7jUc57fG_dQgivbTa7VZrQybBa0ckxnu9SwgGmnFITGqSTkARzL_7YaAuZ7EALw_wcB)
